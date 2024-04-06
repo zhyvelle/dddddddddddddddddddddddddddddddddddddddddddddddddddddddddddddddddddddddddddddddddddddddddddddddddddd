@@ -1,0 +1,24 @@
+body {
+    background-color: #101010;
+    color:white;
+    font-size:14pt
+}
+
+button {
+    font-size: 28pt;
+    background-color: #303030;
+    border-radius: 8pt;
+    border: none;
+    outline: 4px solid white;
+    color:white;
+    padding: 17pt;
+}
+
+button:hover {
+    background-color: #606060;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
